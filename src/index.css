@@ -103,25 +103,19 @@
 }
 
 @media (max-width: 600px) {
-
- 
-
   #login-card {
-    /* Adjust position and dimensions */
     top: calc(50vh - 72px);
     left: calc(50vw - 160px);
     padding-top: 18px;
     padding-bottom: 33px;
     width: 320px;
   }
-  
+
   .login-button {
-    /* Adjust padding */
     padding: 8px;
   }
-  
+
   #loading-icon {
-    /* Adjust font size and position */
     font-size: 44px;
     top: calc(50vh - 14px);
   }
