@@ -26,7 +26,7 @@ Check out the live version of ChatterBox [here](https://chatterbox-chat-app.netl
 
 To get started with ChatterBox, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/chatterbox.git`
+1. Clone the repository: `git clone https://github.com/Shrey1012/ChatterBox.git`
 2. Install the dependencies: `npm install`
 3. Set up Firebase authentication by creating a project and configuring the Firebase credentials in `firebase.js`.
 4. Set up Chat Engine by creating an account and obtaining the project ID and key. Update the relevant credentials in `Chats.js`.
